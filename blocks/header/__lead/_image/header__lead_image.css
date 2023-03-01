@@ -1,10 +1,10 @@
-.header__lead__image {
-  width: 100%;
+.header__lead_image {
+  max-width: 100%;
   margin: 64px auto 0;
   padding: 0;
 }
 @media (max-width: 431px) {
-  .header__lead__image {
+  .header__lead_image {
     margin-top: 40px;
   }
 }

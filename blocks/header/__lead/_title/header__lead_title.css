@@ -1,4 +1,4 @@
-.header__lead__title {
+.header__lead_title {
   max-width: 793px;
   max-height: 200px;
   font-family: "Inter";
@@ -11,7 +11,7 @@
   color: #ffffff;
 }
 @media (max-width: 431px) {
-  .header__lead__title {
+  .header__lead_title {
     font-size: 40px;
     line-height: 1.1;
   }
