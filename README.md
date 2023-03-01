@@ -10,6 +10,7 @@
 **Introducción**
 
 Este es un proyecto que muestra las ciudades natales de algunos de los empleados de Practicum y el mío. Está diseñado de tal modo que todos los elementos se muestren correctamente en los tamaños de pantalla más habituales.
+
 **Figma**
 Se uso Figma como guía para obtener los datos y medidas, también un vistazo a como se vería la página en los distintos dispositivos
 
