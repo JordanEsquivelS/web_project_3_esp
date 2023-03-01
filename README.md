@@ -19,3 +19,4 @@ Se uso grid en este proyecto para poder organizar las imágenes del grid y tambi
 
 **GitHub Pages**
 El proyecto se subió a GitHub Pages, para que se pueda acceder mediante navegador de distintos lados.
+El link es el siguiente:     https://jordanesquivels.github.io/web_project_3_esp/
