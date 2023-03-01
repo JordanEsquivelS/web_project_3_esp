@@ -1,0 +1,23 @@
+.place__website {
+  grid-area: places__website;
+  max-width: 456px;
+  height: auto;
+  margin: 85px 0 0 0;
+}
+@media (max-width: 768px) {
+  .place__website {
+    margin: 0;
+  }
+}
+@media (max-width: 431px) {
+  .place__website {
+    grid-area: places__website;
+    width: 80%;
+    margin: 30px auto 0;
+  }
+}
+@media (max-width: 320px) {
+  .place__website {
+    width: 288px;
+  }
+}

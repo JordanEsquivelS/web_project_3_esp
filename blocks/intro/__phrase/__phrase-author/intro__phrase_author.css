@@ -1,0 +1,19 @@
+.intro__phrase_author {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.41;
+  color: #ffffff;
+}
+@media (max-width: 320px) {
+  .intro__phrase_author {
+    text-align: right;
+    font-size: 24px;
+    line-height: 1.41;
+    width: 100%;
+    position: static;
+  }
+}

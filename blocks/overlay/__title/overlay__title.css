@@ -1,0 +1,21 @@
+.overlay__title {
+  margin: 0;
+  color: #fff;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 1.05;
+  text-align: center;
+}
+@media (max-width: 431px) {
+  .overlay__title {
+    font-size: 36px;
+    line-height: 1.1;
+  }
+}
+@media (max-width: 320px) {
+  .overlay__title {
+    font-size: 32px;
+    line-height: 1.09;
+  }
+}

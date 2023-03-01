@@ -1,0 +1,25 @@
+.cover__link {
+  background-color: #0278fe;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 198px;
+  height: 48px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.22;
+  color: #ffffff;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.cover__link:hover {
+  background-color: #0063d2;
+}
+
+.cover:hover .cover__image {
+  opacity: 0.5;
+}

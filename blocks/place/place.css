@@ -1,0 +1,36 @@
+.place {
+  display: grid;
+  grid-template-columns: minmax(200px, 460px) minmax(200px, 484px);
+  grid-template-rows: auto auto auto;
+  grid-template-areas:
+    "places__title places__website"
+    "places__image places__description"
+    "places__link places__description ";
+  column-gap: 40px;
+}
+@media (max-width: 768px) {
+  .place {
+    width: 91%;
+    margin: auto;
+    column-gap: 28px;
+  }
+}
+@media (max-width: 500px) {
+  .place {
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(5, auto);
+    grid-template-areas:
+      "places__title"
+      "places__website"
+      "places__image"
+      "places__description"
+      "places__link";
+  }
+}
+@media (max-width: 431px) {
+  .place {
+    width: 100%;
+  }
+}

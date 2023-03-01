@@ -1,0 +1,16 @@
+.header__logo_gallery__image {
+  max-width: 270px;
+  max-height: 70px;
+  margin: 34px auto 0;
+}
+@media (max-width: 431px) {
+  .header__logo_gallery__image {
+    max-width: 200px;
+  }
+}
+@media (max-width: 320px) {
+  .header__logo_gallery__image {
+    margin: 20px auto 0;
+    max-width: 200px;
+  }
+}
