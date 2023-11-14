@@ -10,7 +10,7 @@
   margin: 0 auto 0;
   color: #ffffff;
 }
-@media (max-width: 431px) {
+@media (max-width: 432px) {
   .header__lead_title {
     font-size: 40px;
     line-height: 1.1;
